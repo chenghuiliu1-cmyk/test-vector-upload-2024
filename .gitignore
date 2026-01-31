@@ -1,0 +1,48 @@
+```
+# Compiled and build artifacts
+*.o
+*.obj
+*.so
+*.a
+*.dll
+*.exe
+*.out
+
+# Dependencies
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
+*.swo
+
+# Environment
+.env
+.env.local
+*.env.*
+
+# Editors
+.vscode/
+.idea/
+
+# Build and distribution
+build/
+dist/
+target/
+*.tar
+*.zip
+*.gz
+*.bz2
+*.xz
+*.7z
+*.tgz
+*.tar.gz
+*.tar.bz2
+*.tar.xz
+```
